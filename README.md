@@ -8,3 +8,6 @@ I uploaded an example image, you dont need to make a stack you can just make a s
 The stack example does not show the rear V and X braces</br>
 the image also dowsnt show the drawers yet, Ill try to upload a pic at some point, there are drawers with badges and without badges</br>
 
+
+<img src="https://raw.githubusercontent.com/Dave0616/Gridfinity-Drawers/refs/heads/main/Assembly-Example-Stack.jpg"><img/>
+
